@@ -1,6 +1,10 @@
 #include <stdio.h>
 
 int main(void){
-	printf("Hello World");
+	pushmessage();
 	return 0;
+}
+
+void pushmessage(){
+	printf("Hello world");
 }
