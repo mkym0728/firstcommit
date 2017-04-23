@@ -10,6 +10,7 @@ void pushmessage(){
 	printf("Hello world");
 }
 
-void pushmessage2(){
-	printf("Hello world2");
+
+void pushmessage3(){
+	printf("Hello world3");
 }
