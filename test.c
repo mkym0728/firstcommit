@@ -14,3 +14,7 @@ void pushmessage(){
 void pushmessage3(){
 	printf("Hello world3");
 }
+
+void pushmessage4(){
+	printf("Hello world4");
+}
